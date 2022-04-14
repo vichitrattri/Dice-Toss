@@ -8,12 +8,15 @@
   width: 70%;
   margin: auto;
   text-align: center;
-  color: #eaeaea;
+  font-size: 2.5vw;
+  color: #f5b500;
+  padding-top: 12px;
 }
 
 .dice {
   text-align: center;
   display: inline-block;
+  justify-content: center;
 
 }
 
@@ -23,26 +26,38 @@ body {
 
 h1 {
   margin: 30px;
-  font-family: 'Monteserrat', cursive;
-  text-shadow: 5px 0 #930213;
-  font-size: 8rem;
+  font-family: 'Monteserrat';
+  text-shadow: 5px 0 #9c070c;
+  font-size: 7.5vw;
   color: #eaeaea;
+  padding-top:32px;
+  padding-bottom: 48px;
+
+
 }
 
 p {
-  font-size: 2rem;
+  font-size: 2vw;
   color: #eaeaea;
   font-family: 'Indie Flower', cursive;
+  display: inline;
+  margin: 0, auto;
 }
 
 img {
-  width: 80%;
+  width: 20vw;
+  padding-left: 48px;
+  display: inline;
 }
 
 footer {
+  width: 100%;
   margin-top: 5%;
+  padding-bottom: 12px;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
+  font-size: 1.5vw;
+  position: fixed;
+  bottom: 0;
 }
