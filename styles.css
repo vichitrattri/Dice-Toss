@@ -4,6 +4,13 @@
   text-align: center;
 }
 
+.notice {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  color: #eaeaea;
+}
+
 .dice {
   text-align: center;
   display: inline-block;
